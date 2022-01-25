@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"jeff.com/vend/first"
+	"github.com/jeffpalmeri/package-test/vend/first"
 )
 
 func main() {
